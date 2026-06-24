@@ -38,6 +38,7 @@ To keep the `.agent/` folder local (not tracked by Git) while maintaining AI fun
 | **Agents**    | 20    | Specialist AI personas (frontend, backend, security, PM, QA, etc.) |
 | **Skills**    | 37    | Domain-specific knowledge modules                                  |
 | **Workflows** | 11    | Slash command procedures                                           |
+| **Modern ES** | 2026+ | **Next.js 16 & React 19 Native** (Cache Components, PPR, Proxy)    |
 
 
 ## Usage
@@ -123,8 +124,8 @@ ag-kit init --dry-run      # Preview actions without executing
 
 ## Documentation
 
-- **[Web App Example](https://antigravity-kit.vercel.app//docs/guide/examples/brainstorm)** - Step-by-step guide to creating a web application
-- **[Online Docs](https://antigravity-kit.vercel.app//docs)** - Browse all documentation online
+- **[Web App Example](https://antigravity-kit.unikorn.vn/docs/guide/examples/brainstorm)** - Step-by-step guide to creating a web application
+- **[Online Docs](https://antigravity-kit.unikorn.vn/docs)** - Browse all documentation online
 
 ## Buy me coffee
 
